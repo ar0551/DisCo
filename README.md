@@ -34,7 +34,7 @@ If not, see <http://www.gnu.org/licenses/>.
 The Project DisCo base classes build on Wasp developed by Andrea Rossi.
 You can find Wasp at: <https://github.com/ar0551/Wasp>
 
-##Credits
+## Credits
 
 Significant parts of Project DisCo have been developed by Jan Philipp Drude
 as part of research on virtual reality, digital materials and 
