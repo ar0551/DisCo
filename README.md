@@ -38,6 +38,6 @@ You can find Wasp at: <https://github.com/ar0551/Wasp>
 
 Significant parts of Project DisCo have been developed by Jan Philipp Drude
 as part of research on virtual reality, digital materials and 
-discrete design at: 
-[dMA](https://www.dma.uni-hannover.de/) - digital Methods in Architecture - Prof. Mirco Becker
+discrete design at: <br/>
+[dMA](https://www.dma.uni-hannover.de/) - digital Methods in Architecture - Prof. Mirco Becker <br/>
 Leibniz University Hannover
