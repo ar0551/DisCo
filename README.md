@@ -9,8 +9,6 @@ interactively through physics simulations as a means of form generation.
 ## License
 Project DisCo (Discrete Choreography) (GPL) initiated by Jan Philipp Drude
 
-This file is part of Project DisCo.
-
 Copyright (c) 2019, Jan Philipp Drude <jpdrude@gmail.com>
 
 A full build of Project DisCo is available at <http://www.project-disco.com>
